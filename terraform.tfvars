@@ -1,0 +1,8 @@
+env= "dev"
+avail_zone= "us-east-1c"
+vpc_cidr_block="10.0.0.0/16"
+subnet_cidr_block="10.0.0.0/24"
+my-ip="197.165.227.176/32"
+instance_type= "t2.micro"
+# private_key_ssh="/home/ghanem/.ssh/id_rsa"
+# public_key_ssh="/home/ghanem/.ssh/id_rsa.pub"

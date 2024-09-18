@@ -1,0 +1,8 @@
+outputs.tf
+provider.tf
+variables.tf
+terraform.tfstate
+terraform.tfstate.backup
+*.hcl
+.terraform/
+
